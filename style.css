@@ -1,15 +1,1 @@
-body {
-  margin: 0;
-  background: #111;
-  color: white;
-  font-family: Arial, sans-serif;
-  cursor: none; /* importante */
-  overflow: hidden;
-}
 
-h1 {
-  position: fixed;
-  top: 40%;
-  width: 100%;
-  text-align: center;
-}
